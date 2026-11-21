@@ -1,0 +1,6 @@
+short,published,source_language,duration_s,views_day3,retention_pct,framing,notes
+S1,2026-11-18,es,27,8,104.6,stacked,"Title shortened to 26-45 chars on day 3 (A/B vs views/day pending)"
+S2,2026-11-18,es,45,8,39.9,stacked,"Quote-style title; shortened on day 3"
+S3,2026-11-18,es,46,21,37.3,stacked,"Best performer of the first batch"
+S4,2026-11-18,es,36,12,60.2,stacked,"Owner rated the moment 1-2/5: novelty without a joke"
+S5,2026-11-21,es,30,,,stacked_wide,"First clip produced by the automated flow; 48 h stats due 2026-11-23. The 43 s first cut was rated 4/5 by the owner; this 30 s re-cut is the published one"

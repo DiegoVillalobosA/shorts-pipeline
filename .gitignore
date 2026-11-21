@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.env
+*.env
+*.mp4
+*.mkv
+*.mp3
+*.wav
+chat.json
+cache/
+.DS_Store

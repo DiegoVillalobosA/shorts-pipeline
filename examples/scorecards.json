@@ -1,0 +1,15 @@
+{
+  "_note": "Scorecards filled in by Claude from frames + transcript. 'rated_low' are clips the channel owner rated 1-2/5; 'rated_high' are clips the owner picked as his favourites. The retrospective fit is optimistic (cards were filled knowing the ratings); the real validation is prospective: fill the card BEFORE the owner sees the clip.",
+  "rated_low": [
+    {"id": "audio-only gag, 142k views elsewhere (owner: 1/5)", "twist": 1, "reaction": 1, "clarity": 0, "visual": 0, "quote": 0, "theme": 0, "ending": 1},
+    {"id": "novelty with no joke (owner: 1-2/5)",               "twist": 0, "reaction": 0, "clarity": 1, "visual": 2, "quote": 1, "theme": 0, "ending": 0},
+    {"id": "novelty, reaction without payoff (owner: 2/5)",     "twist": 0, "reaction": 1, "clarity": 1, "visual": 1, "quote": 1, "theme": 0, "ending": 0},
+    {"id": "sports reference, needs context (owner: 1/5)",     "twist": 0, "reaction": 0, "clarity": 0, "visual": 0, "quote": 0, "theme": 0, "ending": 0}
+  ],
+  "rated_high": [
+    {"id": "streamer's mum asked for on WhatsApp live",  "twist": 2, "reaction": 2, "clarity": 2, "visual": 2, "quote": 1, "theme": 2, "ending": 2},
+    {"id": "'I drive so well' -> immediate crash",       "twist": 2, "reaction": 1, "clarity": 2, "visual": 2, "quote": 2, "theme": 1, "ending": 2},
+    {"id": "bumps an NPC, 'I'm from Argentina too'",     "twist": 2, "reaction": 2, "clarity": 2, "visual": 2, "quote": 1, "theme": 2, "ending": 2},
+    {"id": "'robbery and skate' one-liner",              "twist": 1, "reaction": 1, "clarity": 2, "visual": 2, "quote": 2, "theme": 2, "ending": 1}
+  ]
+}
